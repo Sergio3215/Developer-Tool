@@ -1,0 +1,32 @@
+{
+  "name": "pro12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@codesandbox/sandpack-react": "^2.9.0",
+    "@nextui-org/button": "^2.0.23",
+    "@nextui-org/react": "^2.2.3",
+    "@nextui-org/system": "^2.0.12",
+    "@nextui-org/theme": "^2.1.12",
+    "framer-motion": "^10.16.4",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  }
+}
